@@ -9,11 +9,7 @@
 
 - 🌱 I’m currently learning **Swift and Framer Motion**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1jfV_4blZhU7L87zrElCHZFe3QhzxQEer/view?usp=drive_link](https://drive.google.com/file/d/1jfV_4blZhU7L87zrElCHZFe3QhzxQEer/view?usp=drive_link)
-
-- 💬 Ask me about **React , Next.js**
-
-- 📫 How to reach me **suryxnshsingh@gmail.com**
+- 📫 Reach me at **suryxnshsingh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
