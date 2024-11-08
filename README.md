@@ -11,13 +11,9 @@
 - 📫 Reach me at **suryxnshsingh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/suryxnshsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suryxnshsingh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suryxnshsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryxnshsingh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/suryxnshsingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suryxnshsingh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/suryxnshsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="suryxnshsingh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/suryxnshsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suryxnshsingh" height="30" width="40" /></a>
-</p>
+<div> <a href="https://twitter.com/suryxnshsingh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/suryxnshsingh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:suryxnshsingh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 # 💻 Tech Stack:
 
