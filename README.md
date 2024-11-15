@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suryansh Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
+- 🧑🏻‍💻 I’m a Frontend Engineer Intern @ [Invsto](https://invsto.com)
 
 - 🔭 I’m currently working on [EI Classroom](https://github.com/suryxnshsingh/EIClassroom-client)
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Framer Motion and Three.js**
 
 - 📫 Reach me at **suryxnshsingh@gmail.com**
 
