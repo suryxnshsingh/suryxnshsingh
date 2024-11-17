@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Framer Motion and Three.js**
 
-- 📫 Reach me at **suryxnshsingh@gmail.com**
+- 📫 Reach me at **suryxnshsingh@gmail.com** or **suryansh@invsto.com**
 
 # 🌐 Connect with me:
 <div> <a href="https://twitter.com/suryxnshsingh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
