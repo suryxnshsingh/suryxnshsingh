@@ -3,7 +3,7 @@
 
 - 🧑🏻‍💻 I’m a Frontend Engineer @[ Invsto](https://invsto.com)
 
-- 🔭 I’m currently working on [EI Classroom]([https://github.com/suryxnshsingh/backend-new-EI)
+- 🔭 I’m currently working on [EI Classroom](https://github.com/suryxnshsingh/backend-new-EI)
 
 - 🌱 I’m currently learning **Framer Motion and Three.js**
 
