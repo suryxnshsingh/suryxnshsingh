@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [EI Classroom](https://github.com/suryxnshsingh/backend-new-EI)
 
-- 🌱 I’m currently learning **Framer Motion and Three.js**
-
 - 📫 Reach me at **suryxnshsingh@gmail.com** or **suryansh@invsto.com**
 
 # 🌐 Connect with me:
