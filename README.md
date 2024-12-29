@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suryansh Singh</h1>
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRyaDYyaDEyYXYwa2E3NWVjYnppenp1MGFvamw5NnpmMXEydjExYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Qi7GG8my6uhLHPLP5/giphy.gif" />
+</div>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 - 🧑🏻‍💻 I’m a Frontend Engineer @[ Invsto](https://invsto.com)
