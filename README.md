@@ -12,6 +12,6 @@
 
 - 🧑🏻‍💻 I’m a Frontend Engineer @[ Invsto](https://invsto.com)
 
-- 🔭 I’m currently working on [EI LMS](https://github.com/suryxnshsingh/backend-new-EI)
+- 🔭 I’m currently working on Client Projects
 
 - 📫 Reach me at **suryxnshsingh@gmail.com** or **suryansh@invsto.com**
