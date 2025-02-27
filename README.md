@@ -14,4 +14,4 @@
 
 - 🔭 I’m currently working on Client Projects
 
-- 📫 Reach me at **suryxnshsingh@gmail.com** or **suryansh@invsto.com**
+- 📫 Reach me at **suryxnshsingh@gmail.com**
