@@ -10,8 +10,7 @@
 <a href = "mailto:suryxnshsingh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-- 🧑🏻‍💻 I work @[ Invsto](https://invsto.com) as a Full Stack Engineer
-
-- 🔭 I’m currently working on Client Projects
-
-- 📫 Reach me at **suryxnshsingh@gmail.com**
+<div align="center">
+<p>🧑🏻‍💻 Full Stack Engineer @[ Invsto](https://invsto.com)</p>
+<p>📫 Reach me at **suryxnshsingh@gmail.com**</p>
+</div>
