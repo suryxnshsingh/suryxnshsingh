@@ -12,5 +12,5 @@
 
 <div align="center">
 <p>🧑🏻‍💻 Full Stack Engineer @[ Invsto](https://invsto.com)</p>
-<p>📫 Reach me at **suryxnshsingh@gmail.com**</p>
+📫 Reach me at **suryxnshsingh@gmail.com**
 </div>
