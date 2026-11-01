@@ -7,7 +7,7 @@ I'm the sole engineer on [Instant Guru](https://suryxnshsingh.com/projects/insta
 **Open source I've built for myself**
 
 - [Crosscast](https://github.com/suryxnshsingh/crosscast): turns a Google TV or Chromecast into an AirPlay speaker. The receiver is written from scratch in Kotlin.
-- [Wrist](https://github.com/suryxnshsingh/wrist): a ChatGPT client for Apple Watch and iPhone.
+- [Wrist](https://github.com/suryxnshsingh/wrist): ChatGPT on Apple Watch. Sign in with ChatGPT and use your existing plan.
 - [Clawtch](https://github.com/suryxnshsingh/Clawtch): a Dynamic Island-style Claude Code companion for the MacBook notch.
 
 **Elsewhere**
